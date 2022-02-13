@@ -1,0 +1,30 @@
+.footer__link {
+  line-height: 24px;
+  text-decoration: none;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  margin-bottom: 32px;
+  color: #fff;
+}
+
+.footer__link:last-of-type {
+  margin-bottom: 0;
+}
+
+@media screen and (min-width: 768px) {
+  .footer__link {
+    font-size: 16px;
+    line-height: 18px;
+    margin-bottom: 0;
+    margin-right: 18px;
+  }
+
+  .footer__link:last-of-type {
+    margin-right: 0;
+  }
+}
+
+.footer__link:hover {
+  opacity: 0.8;
+}

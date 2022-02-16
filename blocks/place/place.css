@@ -20,7 +20,7 @@
 @media screen and (min-width: 1024px) {
  .place {
    width: 928px;
-   column-gap: 7px;
+   column-gap: 13px;
  }
 }
 

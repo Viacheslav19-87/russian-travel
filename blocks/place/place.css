@@ -20,13 +20,13 @@
 @media screen and (min-width: 1024px) {
  .place {
    width: 928px;
-   column-gap: 5px;
+   column-gap: 7px;
  }
 }
 
 @media screen and (min-width: 1280px) {
  .place {
    width: 984px;
-   column-gap: 13px;
+   column-gap: 16px;
  }
 }

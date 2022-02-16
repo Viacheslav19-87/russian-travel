@@ -28,5 +28,6 @@
  .place {
    width: 984px;
    column-gap: 40px;
+   margin-right: 400px;
  }
 }
